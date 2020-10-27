@@ -1,4 +1,4 @@
-#### Software Engineering student. With a great interest in new technologies and a high capacity for teamwork. Always interested in learning and evolving. Sacrifice and perseverance are some of my hallmarks.
+#### Software Engineering student at Universidad de Oviedo. With a great interest in new technologies and a high capacity for teamwork. Always interested in learning and evolving. Sacrifice and perseverance are some of my hallmarks.
 <p align='center'>
     <a href="https://www.linkedin.com/in/miguel-ornia-g%C3%B3mez-6b71701ba/"><img height="30" alt ="Linkedin" src="https://github.com/othub/othub/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
