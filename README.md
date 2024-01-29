@@ -1,5 +1,6 @@
 # Welcome to my profile. Here you'll find samples of my work.
-#### Software Engineer by Universidad de Oviedo. I'm currently a student of the Master's Degree in Web Engineering at Universidad de Oviedo. 
+#### Software Engineer and Web Engineer by University of Oviedo. I'm currently a PhD Student in Computer Science at the University of Oviedo. 
+#### In addition, I'm working as a Junior Engineer at NTT DATA.
 #### With a great interest in new technologies and a high capacity for teamwork. Always interested in learning and evolving. Sacrifice and perseverance are some of my hallmarks.
 <p align='center'>
     <a href="https://www.linkedin.com/in/MiguelOrnia/"><img height="30" alt ="Linkedin" src="https://github.com/MiguelOrnia/MiguelOrnia/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
